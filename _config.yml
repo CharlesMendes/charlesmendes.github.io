@@ -1,20 +1,20 @@
 # Site settings
 
 baseurl: "" # the subpath of your site, e.g. /portfolio
-url: "" # the base hostname & protocol for your site
+url: "www.charlesmendes.com" # the base hostname & protocol for your site
 language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
+author: Charles Mendes
 author-title: Full Stack Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
+gravatar: 1fed3bd31001ce60248d10781292e57f
+email: contato@charlesmendes.com
+twitter: CharlesMendes
+github: CharlesMendes
+googleplus: +CharlesMendes
+facebook: CharlesMendes1985
+linkedin: CharlesMendes/en
 bio: "Brazilian developer. Game, music and technology lover.
       I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
       exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
@@ -67,10 +67,10 @@ front-end:
     level: 3
 
 back-end:
-  - name: PHP
-    level: 5
+  - name: C#
+    level: 4
   - name: Node.js
-    level: 3
+    level: 1
   - name: Ruby
     level: 2
   - name: Python
